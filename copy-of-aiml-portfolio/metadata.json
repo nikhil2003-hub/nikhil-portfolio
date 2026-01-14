@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AIML Portfolio",
+  "description": "A modern, responsive personal portfolio for a Computer Science & Engineering student. Built with React, TypeScript, and Tailwind CSS. Requires a Google Gemini API key for interactive AI features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
